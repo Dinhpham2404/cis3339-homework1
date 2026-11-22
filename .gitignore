@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+npm-debug.log*
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# NOTE: .env is NOT ignored on purpose. The assignment requires the real .env
+# (local MongoDB only, no secrets) to be committed.
